@@ -1,14 +1,13 @@
 ---
-title: Projects
+title: 项目介绍 Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: 正在开展或已完成的重大项目
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+项目总览介绍
 
 {% include tags.html tags="publication, resource, website" %}
 
