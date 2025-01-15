@@ -1,14 +1,13 @@
 ---
-title: Research
+title: 学术研究 Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: 已发表的研究成果
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+学术成果总览介绍
 
 {% include section.html %}
 
