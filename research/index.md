@@ -13,7 +13,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="A Bioinspired Coiled Cable-Driven Manipulator" style="rich" %}
 
 {% include section.html %}
 
