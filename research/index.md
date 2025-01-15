@@ -5,7 +5,7 @@ nav:
   tooltip: 已发表的研究成果
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}学术研究 Research
 
 学术成果总览介绍
 
