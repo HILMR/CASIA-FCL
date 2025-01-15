@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: HILMR
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: 中国科学院自动化研究所 柔性控制机器人实验室
+subtitle: CASIA Flexible Control Robotics Laboratory
+description: 实验室主页
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: contact@HILMR.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: HILMR
-  twitter: HILMR
-  youtube: HILMR
+  # orcid: 0000-0001-8713-9213
+  # google-scholar: ETJoidYAAAAJ
+  # github: HILMR
+  # twitter: HILMR
+  # youtube: HILMR
 
 ### jekyll settings
 
