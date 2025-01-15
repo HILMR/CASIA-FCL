@@ -2,29 +2,40 @@
 
 # team member roles
 
-principal-investigator:
+researcher:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: 研究员(Researcher)
+
+associate_researcher:
+  icon: fa-solid fa-microscope
+  description: 副研究员(Associate Researcher)
+
+assistant_researcher:
+  icon: fa-solid fa-microscope
+  description: 助理研究员(Assistant Researcher)
 
 postdoc:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: 博士后(Postdoctoral Researcher)
 
 phd:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: 博士生(Ph.D Student)
+md:
+  icon: fa-solid fa-graduation-cap
+  description: 硕士生(Master's Student)
 
-undergrad:
+trainee:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: 实习生
 
-programmer:
+engineer:
   icon: fa-solid fa-code
-  description: Programmer
+  description: 工程师
 
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+staff:
+  icon: fa-solid fa-book
+  description: 职员
 
 # general
 
