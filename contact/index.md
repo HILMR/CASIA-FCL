@@ -1,15 +1,13 @@
 ---
-title: Contact
+title: 联系 Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: 联系我们
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}联系方式 Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+欢迎交流
 
 {%
   include button.html
