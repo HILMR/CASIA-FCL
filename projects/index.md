@@ -1,5 +1,5 @@
 ---
-title: 科研项目 Projects
+title: 项目 Projects
 nav:
   order: 2
   tooltip: 正在开展或已完成的科研项目
