@@ -1,11 +1,11 @@
 ---
-title: 项目介绍 Projects
+title: 科研项目 Projects
 nav:
   order: 2
-  tooltip: 正在开展或已完成的重大项目
+  tooltip: 正在开展或已完成的科研项目
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}科研项目 Projects
 
 项目总览介绍
 
