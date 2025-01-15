@@ -5,7 +5,7 @@ nav:
   tooltip: 在实验室工作的团队成员
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}团队 Team
+# {% include icon.html icon="fa-solid fa-users" %}团队成员 Team
 
 团队总览
 
