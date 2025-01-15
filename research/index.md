@@ -1,5 +1,5 @@
 ---
-title: 学术研究 Research
+title: 研究 Research
 nav:
   order: 1
   tooltip: 已发表的研究成果
