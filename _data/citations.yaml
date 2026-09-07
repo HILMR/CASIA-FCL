@@ -1,5 +1,102 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/TMECH.2025.3630101
+  title: Reducing and Compensating Hysteresis in Bowden Cable-Driven Manipulators
+    via Optimized Transmission Paths and Improved Tension Modeling
+  authors:
+  - Mingrui Luo
+  - En Li
+  - Zhangxi Zhou
+  - George Mylonas
+  - Gang Chen
+  - Min Tan
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2026-06-01'
+  link: https://doi.org/hbdt5x
+  orcid: 0000-0002-4412-2953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/act15030154
+  title: Design Characteristics of Continuum Robots Based on TSA Variable Stiffness
+    Method
+  authors:
+  - Gang Chen
+  - Yutong Wu
+  - Zhixin Zhang
+  - Jianxiao Zheng
+  - Shiying Liu
+  - Jiwei Yuan
+  - Mingrui Luo
+  - En Li
+  publisher: Actuators
+  date: '2026-03-04'
+  link: https://doi.org/hbrs85
+  orcid: 0000-0002-4412-2953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JSTARS.2026.3709514
+  title: "DMHF-Net: Dual-Modal Hierarchical Fusion Network for RGB\u2013IR Joint Detection\
+    \ of Small-Scale Targets From UAV Perspective"
+  authors:
+  - Suyang Cao
+  - Mingrui Luo
+  - Yunong Tian
+  - Fan Zhang
+  - En Li
+  publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote
+    Sensing
+  date: '2026-01-01'
+  link: https://doi.org/hb9kfk
+  orcid: 0000-0002-4412-2953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/2631-8695/adcb05
+  title: A robotic adaptive door opening method with a combination of force and vision
+  authors:
+  - Xuewei Cao
+  - Lin Shang
+  - Aoshun Zhang
+  - En Li
+  - Rui Guo
+  - Feng Zhang
+  publisher: Engineering Research Express
+  date: '2025-04-23'
+  link: https://doi.org/g9fd2c
+  orcid: 0000-0002-4412-2953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1361-6501/adb769
+  title: 'RID-LIO: robust and accurate intensity-assisted LiDAR-based SLAM for degenerated
+    environments'
+  authors:
+  - Tao Sun
+  - Rui Guo
+  - Gang Chen
+  - Hongyan Wang
+  - En Li
+  - Wenbiao Zhang
+  publisher: Measurement Science and Technology
+  date: '2025-02-28'
+  link: https://doi.org/g855jj
+  orcid: 0000-0002-4412-2953
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-96-1614-5_18
+  title: A Deep Reinforcement Learning Method with Adaptive Heuristic Function Improvement
+    for Mobile Robot Navigation in Substation Environment
+  authors:
+  - Fuzhi Jian
+  - En Li
+  - Lirong Xie
+  - Zhuang Yan
+  - Yifan Bian
+  - Guzhalayi Bali
+  publisher: Communications in Computer and Information Science
+  date: '2025-01-01'
+  link: https://doi.org/g848zk
+  orcid: 0000-0002-4412-2953
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/LRA.2024.3363535
   title: Model-Based Trajectory Planning of a Hybrid Robot for Powerline Inspection
   authors:
